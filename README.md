@@ -2,7 +2,7 @@
 
 Chip8Mac is another Chip-8 based emulator that uses C, C++, and SDL2 -- intended for MacOS.
 
-![IBM Logo](https://imgur.com/a/eroq1G6)
+![IBM Logo](https://i.imgur.com/429qxi3.png)
 ![Brix](https://i.imgur.com/NVQt0hd.png)
 
 ## Building and Running
