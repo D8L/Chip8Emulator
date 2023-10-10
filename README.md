@@ -1,30 +1,52 @@
 # Chip8Mac
 
-Chip8Mac is another Chip-8 based emulator that uses C, C++, and SDL2 -- intended for MacOS.
+Chip8Mac is another Chip-8 based emulator that uses C, C++, SDL2, and CMake -- intended for MacOS.
 
 ![IBM Logo](https://i.imgur.com/429qxi3.png)
 ![Brix](https://i.imgur.com/NVQt0hd.png)
 
-## Building and Running
+## Getting Started
 
-This project requires *CMake* to build.
+Follow these steps to set up the project on your local machine:
 
-To build:
+1. Clone the repository:
 
 ```
-$ git clone https://github.com/D8L/Chip8Mac.git && cd Chip8
-$ mkdir build && cd build
-$ cmake ..
-$ make
+git clone https://github.com/D8L/Chip8Mac.git
 ```
 
-To run:
+2. Navigate to the project directory:
+
+```
+cd Chip8
+```
+
+3. Build the project:
+
+```
+git clone https://github.com/D8L/Chip8Mac.git && cd Chip8
+mkdir build && cd build
+cmake ..
+make
+```
+
+4. Run the project:
 
 ```
 ./chip8 [ROM filepath]
 ```
-
 You can find some ROMs under the `roms` directory.
+
+## Built With
+
+* C
+* C++
+* SDL2
+* CMake
+
+## Authors
+
+* D8L
 
 ## References
 
