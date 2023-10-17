@@ -18,7 +18,7 @@ git clone https://github.com/D8L/Chip8Emulator.git
 2. Navigate to the project directory:
 
 ```
-cd Chip8
+cd Chip8Emulator
 ```
 
 3. Build the project:
