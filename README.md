@@ -12,7 +12,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
 ```
-git clone https://github.com/D8L/Chip8Mac.git
+git clone https://github.com/D8L/Chip8Emulator.git
 ```
 
 2. Navigate to the project directory:
@@ -24,7 +24,6 @@ cd Chip8
 3. Build the project:
 
 ```
-git clone [https://github.com/D8L/Chip8Emulator.git](https://github.com/D8L/Chip8Emulator) && cd Chip8
 mkdir build && cd build
 cmake ..
 make
