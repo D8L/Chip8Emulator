@@ -24,7 +24,7 @@ cd Chip8
 3. Build the project:
 
 ```
-git clone https://github.com/D8L/Chip8Mac.git && cd Chip8
+git clone [https://github.com/D8L/Chip8Emulator.git](https://github.com/D8L/Chip8Emulator) && cd Chip8
 mkdir build && cd build
 cmake ..
 make
